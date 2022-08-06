@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SQLite_Example.MainPage" BackgroundColor="AliceBlue">
+
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="20">
+          
+            <Entry x:Name="Name" Placeholder="Enter Name"/>
+            <Entry x:Name="City" Placeholder="Enter City"/>
+                      
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                <Button x:Name="Create" Text="Create" Clicked="CreateButton_Clicked"/>
+                <Button x:Name="Read" Text="Read" Clicked="ReadButton_Clicked"/>
+                <Button x:Name="Update" Text="Update" Clicked="UpdateButton_Clicked"/>
+                <Button x:Name="Delete" Text="Delete" Clicked="DeleteButton_Clicked"/>
+            </StackLayout>
+
+            <ListView x:Name="listEmployer" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell  Text="{Binding  Name}" Detail="{Binding City}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+           
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

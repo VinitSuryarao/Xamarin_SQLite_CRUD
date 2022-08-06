@@ -1,0 +1,15 @@
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\obj\Debug\netstandard2.0\SQLite_Example.csproj.AssemblyReference.cache
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\obj\Debug\netstandard2.0\SQLite_Example.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\obj\Debug\netstandard2.0\SQLite_Example.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\obj\Debug\netstandard2.0\SQLite_Example.AssemblyInfo.cs
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\obj\Debug\netstandard2.0\SQLite_Example.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\obj\Debug\netstandard2.0\SQLite_Example.dll
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\obj\Debug\netstandard2.0\ref\SQLite_Example.dll
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\obj\Debug\netstandard2.0\SQLite_Example.pdb
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\bin\Debug\netstandard2.0\SQLite_Example.deps.json
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\bin\Debug\netstandard2.0\SQLite_Example.dll
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\bin\Debug\netstandard2.0\ref\SQLite_Example.dll
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\bin\Debug\netstandard2.0\SQLite_Example.pdb
+E:\Study\Code\Xamarin\SQLite_Example\SQLite_Example\obj\Debug\netstandard2.0\XamlC.stamp
